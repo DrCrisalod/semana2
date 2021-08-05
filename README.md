@@ -14,6 +14,7 @@
 
 </br>
 <a name="item1"></a>
+
 ## Asignaciones
 Estos ejemplos y ejercicios plasme 
 la operación de asignación que nos sirve para dar valor a una variable.
